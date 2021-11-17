@@ -1,2 +1,2 @@
 # xGitspace
-xGitspace : [Gitpod Workspaces](https://gitpod.io/#https://github.com/RONIN808/xGitspace)
+[![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ShubhamShedge/xGitspace)
